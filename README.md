@@ -43,4 +43,4 @@ npm i
 I would appreciate it if you could
 support me by giving me a ⭐
 
-[SMsajjadSM](https://github.com/SMsajjadSM/Parallex)
+[SMsajjadSM](https://github.com/SMsajjadSM/Travel-List)
