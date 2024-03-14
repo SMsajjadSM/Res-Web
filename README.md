@@ -14,7 +14,10 @@
 
 ## Features
 
-- Layered and beautiful user interface
+- Save information
+- the show & insert it
+- Delete information
+- Sort by name and...
 
 
 
