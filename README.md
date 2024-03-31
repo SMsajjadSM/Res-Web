@@ -1,6 +1,6 @@
 
 # Travel-List
-## This Wbsite Have New Experience!!
+## This Website Have New Experience!!
 
 
 [Demo of Travel-List](https://smsajjadsm.github.io/Travel-List/)
@@ -31,7 +31,7 @@
 First clone project ...
 
 ```sh
-https://github.com/SMsajjadSM/Parallex.git
+https://github.com/SMsajjadSM/Travel-List.git
 ```
 
 Install the dependencies and devDependencies
